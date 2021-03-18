@@ -1,3 +1,16 @@
+# WyWalletApp
+
+Manage your money so easy with this application, You only need to register you and use it.
+
+## Tools
+
+1. [ReactJS]
+2. [Redux]
+3. [NodeJS]
+4. [Express]
+5. [MongoDB]
+6. [Material UI]
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
