@@ -12,7 +12,7 @@ Manage your money so easy with this application, You only need to register you a
 
 ## Build it with:
 
-_Tools used to develop this app:
+_Tools used to develop this app:_
 
 * [React](https://es.reactjs.org/) - Bilioteca de Javascript para construir Interfaces de Usuario Web
 * [Redux](https://es.redux.js.org/) - Contenedor predecible del estado de aplicaciones JavaScript.
@@ -22,7 +22,7 @@ _Tools used to develop this app:
 
 ### Available Scripts
 
-_In the project directory, you can run:
+_In the project directory, you can run:_
 
 #### `npm start`
 
@@ -63,6 +63,6 @@ I use [Git](https://git-scm.com/) for versioning.
 
 ## Author/s
 
-_People handled to develop this app:
+_People handled to develop this app:_
 
 * **Alexis Hernández** - *Trabajo Completo* - [alexis11hm](https://github.com/alexis11hm)
