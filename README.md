@@ -14,9 +14,9 @@ Manage your money so easy with this application, You only need to register you a
 
 _Tools used to develop this app:_
 
-* [React](https://es.reactjs.org/) - Bilioteca de Javascript para construir Interfaces de Usuario Web
-* [Redux](https://es.redux.js.org/) - Contenedor predecible del estado de aplicaciones JavaScript.
-* [Material UI](https://material-ui.com/es/) - Componentes de React para un desarrollo web más rápido y sencillo.
+* [React](https://es.reactjs.org/) - Javascript library to build Web User Interfaces
+* [Redux](https://es.redux.js.org/) - Predictable container for JavaScript application state.
+* [Material UI](https://material-ui.com/es/) - React components for faster and easier web development.
 
 ## Execute App
 
@@ -65,4 +65,4 @@ I use [Git](https://git-scm.com/) for versioning.
 
 _People handled to develop this app:_
 
-* **Alexis Hernández** - *Trabajo Completo* - [alexis11hm](https://github.com/alexis11hm)
+* **Alexis Hernández** - *Full work* - [alexis11hm](https://github.com/alexis11hm)
